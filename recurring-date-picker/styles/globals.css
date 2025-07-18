@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles (add below) */
+.custom-calendar-date {
+  border: 2px dashed #6366f1;
+  background: #f0f4ff;
+}
